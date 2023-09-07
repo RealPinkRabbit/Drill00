@@ -1,6 +1,4 @@
-hello, world
+hello
 신동근
-A+
 2020152020
-hello
-hello
+A+
